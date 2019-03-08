@@ -1,5 +1,5 @@
 # [ECSE354--Electromagnetic-Wave-Propagation](https://www.mcgill.ca/study/2017-2018/courses/ecse-354)
-[ECSE354](https://www.mcgill.ca/study/2017-2018/courses/ecse-354)
+
 This reopository contains a Matlab project which were made for adademic use.
 
 ## Description
