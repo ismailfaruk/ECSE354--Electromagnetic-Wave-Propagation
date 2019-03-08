@@ -12,6 +12,6 @@ The Project can be used to find the Voltages, Currents and Impedance in a transm
 
 ## Authors
 
-* [Ismail Faruk](https://github.com/ismailfaruk)
+* [**Ismail Faruk**](https://github.com/ismailfaruk)
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
